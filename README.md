@@ -4,7 +4,7 @@ My solutions to [Advent of Code 2017](https://adventofcode.com/) questions. Blog
 
 `january.cpp` has all 49 solutions with added commentary and some tidying and speeding up.
 
-Output of january.cpp executable on 2017 intel CPU:
+Output of january.cpp executable on a 2017 intel i9-7900X CPU @ 3.3GHz:
 
 ```
  1.1   0.00ms 1390
